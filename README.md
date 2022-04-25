@@ -7,7 +7,6 @@ The purpose of this analysis is to use Spark to analyze the large set of data fr
 
 ## Results:
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 - How many Vine reviews and non-Vine reviews were there?
   - There were 162 Vine reviews versus 35,568 Non-Vine reviews. There are significantly more non-Vine reviews compared to Vine reviews.
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
